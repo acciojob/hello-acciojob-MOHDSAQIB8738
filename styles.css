@@ -1,18 +1,17 @@
 
 /* Your CSS Code here. */
-main,p{
+main{
 	width:150px;
 	height:150px;
 	background-color:#000000;
+}
 
 p{
 	
 	left-margin:32px;
 	padding:10px;
-	textcolor: #ffffff;
+	color: #ffffff;
 	color:rgb(255,255,255);
 	
-	
-}
 	
 }
