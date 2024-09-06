@@ -1,15 +1,15 @@
 
 /* Your CSS Code here. */
-main{
+.class{
 	width:150px;
 	height:150px;
 	background-color:#000000;
 
 p{
-	text-color: #ffffff;
+	
 	left-margin:32px;
 	padding:10px;
-	color: rgb(255,255,255);
+	color: #ffffff;
 	
 	
 }
